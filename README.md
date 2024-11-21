@@ -21,7 +21,7 @@ Esprunki InCrediBox is a browser-based music creation game inspired by InCrediBo
 
 ## How to Play Esprunki InCrediBox
 
-1. **Start the Game:** Visit [esprunki-incredibox](https://spunky.games/esprunki-incredibox) in your web browser to begin.
+1. **Start the Game:** Visit esprunki-incredibox in your web browser to begin.
 2. **Choose Characters:** Drag and drop the animated characters onto the stage. Each character represents a different sound or musical loop.
 3. **Mix and Match Sounds:** Experiment with combining various characters to create your own unique beats and melodies.
 4. **Record Your Creation:** Use the recording feature to capture your finished musical piece.
@@ -64,4 +64,4 @@ Esprunki InCrediBox is a browser-based music creation game inspired by InCrediBo
 ---
 
 
-Unleash your musical creativity! Play Esprunki InCrediBox now: [esprunki-incredibox](https://spunky.games/esprunki-incredibox)
+Unleash your musical creativity! Play Esprunki InCrediBox.
